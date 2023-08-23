@@ -12,7 +12,14 @@
     justify-content: center;
     align-items: center;
     justify-items: center;
+    background-color: gr;
+
     
+}
+
+
+.grid div:not(:nth-child(1)){
+    display: none;
 }
 
 .grid div:nth-child(1){
