@@ -29,7 +29,7 @@
 
 .grid div:nth-child(2){
     width: 120px;
-    height: 5px;
+    height: 10px;
     background: linear-gradient(to right, blue, yellow);
     grid-row: 1 / 2;
     grid-column: 2 / 3;
@@ -44,7 +44,7 @@
     grid-column: 3 / 4;
 }
 .grid div:nth-child(4){
-    width: 5px;
+    width: 10px;
     height: 120px;
     background: linear-gradient(to bottom, blue, red);
     background-color: red ;
@@ -54,7 +54,7 @@
 }
 
 .grid div:nth-child(5){
-    width: 5px;
+    width: 10px;
     height: 120px;
     background: linear-gradient(to bottom, yellow, purple);
     background-color: red ;
@@ -73,7 +73,7 @@
 
 .grid div:nth-child(7){
     width: 120px;
-    height: 5px;
+    height: 10px;
     background: linear-gradient(to right, red, purple);
     grid-row: 3 / 4;
     grid-column: 2 / 3;
